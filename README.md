@@ -6,3 +6,11 @@
 - List of MCP Servers - https://github.com/microsoft/mcp
 - Agentic Workflows for GitHub Actions - https://githubnext.com/projects/agentic-workflows/
 - Beast Mode 3.1 Agent for VS Code - https://burkeholland.github.io/posts/beast-mode-3-1/
+
+
+People to follow to learn more
+
+
+Doug Finke - https://x.com/dfinke
+Burke Holland - https://x.com/burkeholland
+Pierce Boggan - https://x.com/pierceboggan
