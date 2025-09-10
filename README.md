@@ -11,6 +11,6 @@
 People to follow to learn more
 
 
-Doug Finke - https://x.com/dfinke
-Burke Holland - https://x.com/burkeholland
-Pierce Boggan - https://x.com/pierceboggan
+- Doug Finke - https://x.com/dfinke
+- Burke Holland - https://x.com/burkeholland
+- Pierce Boggan - https://x.com/pierceboggan
